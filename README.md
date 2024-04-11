@@ -4,5 +4,6 @@ Lightweight API wrapper for the Kraken [websocket API](https://www.kraken.com/fe
 
 ## TODO
 
+- Add private methods with auth.
 - Handle reconnects
 - Add heartbeat
